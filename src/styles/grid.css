@@ -1,0 +1,141 @@
+.sso-row {
+    display: inline-block !important;
+    width: 100% !important;
+    font-size: 14px;
+}
+
+.sso-row-padding-left-82 {
+    padding-left: 82px;
+    float: left;
+    width: 100%
+}
+
+.sso-row-padding-left-112 {
+    padding-left: 112px;
+    float: left;
+    width: 100%
+}
+
+.sso-col-15 {
+    float: left;
+    width: 15px;
+}
+
+.sso-col-50 {
+    float: left;
+    width: 50px;
+}
+
+.sso-col-34 {
+    float: left;
+    width: 34px;
+}
+
+.sso-col-50 {
+    float: left;
+    width: 50px;
+}
+
+.sso-col-80 {
+    float: left;
+    width: 80px;
+}
+
+.sso-col-82 {
+    float: left;
+    width: 82px;
+}
+
+.sso-col-86 {
+    float: left;
+    width: 86px;
+}
+
+.sso-col-100 {
+    float: left;
+    width: 100px;
+}
+
+.sso-col-112 {
+    float: left;
+    width: 112px;
+}
+
+.sso-col-135 {
+    float: left;
+    width: 135px;
+}
+
+.sso-col-250 {
+    float: left;
+    width: 250px;
+}
+
+.sso-col-275-surplus {
+    float: left;
+    width: calc(100% - 265px);
+}
+
+.sso-col-250-surplus {
+    float: left;
+    width: calc(100% - 250px);
+}
+
+.sso-col-220-surplus {
+    float: left;
+    width: calc(100% - 220px);
+}
+
+.sso-col-202-surplus {
+    float: left;
+    width: calc(100% - 202px);
+}
+
+.sso-col-135-surplus {
+    float: left;
+    width: calc(100% - 135px);
+}
+
+.sso-col-112-surplus {
+    float: left;
+    width: calc(100% - 112px);
+}
+
+.sso-col-95-surplus {
+    float: left;
+    width: calc(100% - 95px);
+}
+
+.sso-col-88-surplus {
+    float: left;
+    width: calc(100% - 88px);
+}
+
+.sso-col-82-surplus {
+    float: left;
+    width: calc(100% - 82px);
+}
+
+.sso-col-65-surplus {
+    float: left;
+    width: calc(100% - 65px);
+}
+
+.sso-col-50-surplus {
+    float: left;
+    width: calc(100% - 50px);
+}
+
+.sso-gutter-8 {
+    padding: 8px;
+}
+
+.sso-gutter-15 {
+    padding: 15px;
+}
+
+.sso-gutter-border-left-15 {
+    border-left: 1px solid #eee;
+    margin-left: 15px;
+    padding-left: 20px;
+}

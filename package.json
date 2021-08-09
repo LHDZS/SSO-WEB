@@ -1,0 +1,36 @@
+{
+  "name": "game2sky-sso-front",
+  "version": "4.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "test": "vue-cli-service build --mode test",
+    "build": "vue-cli-service build",
+    "codeScanner": "sonar-scanner -Dsonar.host.url=http://172.16.3.228:9500 -Dsonar.login=7a9b163cd577c0ac4890573ab938e184fee85fd3 -Dsonar.projectKey=sso-web -Dsonar.projectName=统一鉴权系统前端 -Dsonar.exclusions=dist/**/*"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "babel-polyfill": "^6.26.0",
+    "js-file-download": "^0.4.12",
+    "js-md5": "^0.7.3",
+    "less": "^3.12.2",
+    "less-loader": "^7.0.1",
+    "pdfobject": "^2.1.1",
+    "save": "^2.4.0",
+    "sonarqube-scanner": "^2.8.0",
+    "view-design": "^4.0.0",
+    "vue": "^2.5.16",
+    "vue-avatar": "^2.3.3",
+    "vue-clipboard2": "^0.3.1",
+    "vue-cookies": "^1.7.4",
+    "vue-cropper": "^0.5.6",
+    "vue-preview-img": "^0.1.3",
+    "vue-router": "^2.8.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.12.1",
+    "@vue/cli-service": "^3.12.1",
+    "clean-webpack-plugin": "^3.0.0",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
